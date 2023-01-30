@@ -1,5 +1,6 @@
 #"""
 #Working heatmap using tidyHeatmap and dplyr
+#inspired by heatmap in Kacen et al. Nat Biotechnol (2022).
 #takes input csv in following format
 #Sample  Peptide Value   HLA     Tissue
 #s1      AA         1   A3      Melanoma
